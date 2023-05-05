@@ -1,0 +1,11 @@
+h1, h2 {
+	text-align: center;
+}
+
+table {
+	width: 100%;
+}
+
+.btn-delete {
+	margin-left: 10px;
+}
